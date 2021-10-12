@@ -11,7 +11,7 @@ public class Break_Ex_if {
             if (i == 5)
             {
                 //break;
-                
+       
                 continue;
             }      
             System.out.println(i);
