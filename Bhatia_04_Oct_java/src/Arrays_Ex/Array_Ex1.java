@@ -16,6 +16,9 @@ public class Array_Ex1
 
 			System.out.println(Student_names[0]);
 			
+			System.out.println(Student_names);
+
+			
 			//Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 			//System.out.println(Student_names[5]);
 			System.out.println(Student_names.length);

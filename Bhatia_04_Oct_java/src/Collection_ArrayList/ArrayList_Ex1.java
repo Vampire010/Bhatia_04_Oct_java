@@ -16,7 +16,8 @@ public class ArrayList_Ex1
 		nums.add(12);
 		nums.add(13);
 		nums.add(14);
-		
+		nums.add(14);
+
 		//Getting the Individual Elements
 		System.out.println(nums.get(2));
 		
